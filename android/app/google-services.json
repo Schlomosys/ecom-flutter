@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "109512394176",
+    "firebase_url": "https://dextremecom.firebaseio.com",
+    "project_id": "dextremecom",
+    "storage_bucket": "dextremecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109512394176:android:fee04b98996e0ae6f7b425",
+        "android_client_info": {
+          "package_name": "com.example.dextroecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109512394176-38jdjnq338a5q3bqfh4ktev284n1ed01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dextroecom",
+            "certificate_hash": "21bf13f5bb72e0aa9aa5a65c80249b7747325d3b"
+          }
+        },
+        {
+          "client_id": "109512394176-86jt41cna7qt26bvguemns72esls53dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6YVZ0PEmBdT2MNoC4BXp-M8ySlOATd1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109512394176-86jt41cna7qt26bvguemns72esls53dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
