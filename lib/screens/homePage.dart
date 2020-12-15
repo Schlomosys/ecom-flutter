@@ -305,7 +305,7 @@ class _HomePageState extends State<HomePage> {
       ),
     )).toList();
 
-    String msgInline = "Benvenue sur Kakuta Shop, Votre boutique en ligne, bon shopping !";
+    String msgInline = "Benvenue sur Kakuta Shop, Votre partenaire e-commerce, bon shopping !";
 
     List<String> msgInlinelist = msgInline.split(", ");
     int msgInlinelistlen = msgInlinelist.length;
