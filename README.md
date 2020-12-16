@@ -6,17 +6,18 @@ A new Flutter application.
 - And  Ramu bugudiramu  (https://github.com/bugudiramu/e-Bazaar)
 
 ## Features
-***Fetch products data from Firebase Cloud Firestore
-***User's authentication using Firebase(e-mail & Google)
-***Flutterwave gateway for payments
-***Nominatim Location Picker package for user's Shipping Adress Location ( implement a solution approach )
-***Cart, Checkout, Rating, Product details, Products Filter
-***Awesome UI
-***French Wording
+▪ Fetch products data from Firebase Cloud Firestore
+▪ User's authentication using Firebase(e-mail & Google)
+▪ Flutterwave gateway for payments
+▪ Nominatim Location Picker package for user's Shipping Adress Location ( implement a solution approach )
+▪ Cart, Checkout, Rating, Product details, Products Filter
+▪ Awesome UI
+▪ French Wording
 
 
 
 
 ### Screenshots
+![Farmers Market Finder Demo](ScrennShot/appOkok.gif)
 
 
