@@ -16,9 +16,8 @@
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true">
 
-        <!-- Add your api key here -->
-        <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA7KCiWI5GibvPaL3NCPGJsX6fibDXXwE0"/>
+        <!-- Google Geo api key here -->
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="Your API key here"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
