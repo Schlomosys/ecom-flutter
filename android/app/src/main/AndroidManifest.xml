@@ -16,9 +16,8 @@
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true">
 
-        <!-- Add your api key here -->
-        <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA7KCiWI5GibvPaL3NCPGJsX6fibDXXwE0"/>
+        <!-- Google Geo api key here -->
+       <!-- <meta-data android:name="com.google.android.geo.API_KEY" android:value="Your API key here"/>-->
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
@@ -55,7 +54,7 @@
             android:value="2" />
        <!-- <meta-data
             android:name="com.hover.ApiKey"
-            android:value="32a0acb2e6f743ae952d7cf2e0c27879"/>-->
+            android:value="yor API key"/>-->
 
     </application>
 
